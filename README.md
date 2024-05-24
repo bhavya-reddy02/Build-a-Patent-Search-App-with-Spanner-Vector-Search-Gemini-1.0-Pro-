@@ -16,4 +16,7 @@ As part of project:
 4.Create generative insights from loaded dataset
 5.Generate embeddings from the insights
 6.Issue similarity search queries against the dataset
+2. Before you begin
+
+
 
